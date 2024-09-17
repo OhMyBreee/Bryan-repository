@@ -1,3 +1,4 @@
--membuat aplikasi penghitung kesempatan menang di poker
+- membuat aplikasi penghitung kesempatan menang di poker
+* harus bisa diaplikasikan untuk kebutuhan judi online target konsumen -> masyarakat indonesia
 - membuat aplikasi computer vision dengan killer drone
 - membuat aplikasi live tracking pedagang keliling
