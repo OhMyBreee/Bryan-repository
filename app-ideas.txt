@@ -1,0 +1,3 @@
+-membuat aplikasi penghitung kesempatan menang di poker
+- membuat aplikasi computer vision dengan killer drone
+- membuat aplikasi live tracking pedagang keliling
